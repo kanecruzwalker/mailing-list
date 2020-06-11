@@ -1,0 +1,19 @@
+{
+  "name": "mailing-list",
+  "version": "1.0.0",
+  "description": "A mailing list Full Stack App to be deployed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanercruzwalker/mailing-list.git"
+  },
+  "author": "Kane RCW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanercruzwalker/mailing-list/issues"
+  },
+  "homepage": "https://github.com/kanercruzwalker/mailing-list#readme"
+}
